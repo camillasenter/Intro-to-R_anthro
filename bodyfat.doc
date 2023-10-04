@@ -1,0 +1,22 @@
+The dataset bodyfat.csv contains data on 252 adult men. The specific variables are:
+
+- percent body fat, 
+- age (in years) 
+- weight (in pounds)
+- height (in inches)  and 
+- Body measurements:
+	Neck circumference (cm)
+	Chest circumference (cm)
+	Abdominal circumference (cm)
+	Hip circumference (cm)
+	Thigh circumference (cm)
+	Ankle circumference (cm)
+	Biceps circumference (cm) 
+	Forearm circumference (cm)
+	Wrist circumference (cm)
+	Percent fat 1
+	Percent fat 2
+
+
+
+
