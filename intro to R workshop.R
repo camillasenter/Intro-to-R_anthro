@@ -12,12 +12,6 @@ install.packages("ggplot2")
 library(ggplot2)
 
 
-
-# Using R as a calculator
-2 + 3
-2 / 3
-
-
 # Generating sequence 
 seq(from=1, to=5, by=1)
  
@@ -194,7 +188,7 @@ chisq.test(tab)
 fisher.test(tab)
 
 #Analysis of Variance (ANOVA)#
-fit <- aov(weight ~ age)
+fit <- aov(bodyfat$weight ~ bodyfat$age)
 fit
 
 
