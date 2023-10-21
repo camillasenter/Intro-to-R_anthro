@@ -27,7 +27,7 @@ first_vec
 
 # create another vector
 ##Vectors
-colors <- c("red", "green", "blue")
+colors <- c("red", "green", "black")
 colors
 
 
